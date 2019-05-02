@@ -3,10 +3,10 @@ Laravel and Vue.js project
 
 # How to install
 <ol>
-	<li>Clone this repository</li>
-	<li>cd laravel_vue</li>
-	<li>cp env.example .env</li>
-	<li>php artisan key:generate</li>
-	<li>composer install</li>
-	<li>php artisan serve</li>
+	<li>clone this repository</code></li>
+	<li><code>cd laravel_vue</code></li>
+	<li><code>cp env.example .env</code></li>
+	<li><code>php artisan key:generate</code></li>
+	<li><code>composer install</code></li>
+	<li><code>php artisan serve</code></li>
 </ol>

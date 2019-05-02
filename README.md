@@ -1,7 +1,7 @@
 # Laravel + Vue.js
 Laravel and Vue.js project
 
-# How to install
+# How to install and run
 <ol>
 	<li>clone this repository</li>
 	<li><code>cd laravel_vue</code></li>

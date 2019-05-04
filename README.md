@@ -9,5 +9,6 @@ Laravel and Vue.js project
 	<li><code>cp env.example .env</code></li>
 	<li><code>php artisan key:generate</code></li>	
 	<li>check configuration settings in the .env -file</li>
+	<li><code>php artisan migrate</code></li>
 	<li><code>php artisan serve</code></li>
 </ol>
